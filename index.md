@@ -60,6 +60,9 @@ page_sections:
   content: Hello world! ❤︎
 - template: 4-column-footer
   block: footer-2
+  col_2: sdfsdf
+  col_3: sdfd
+  col_4: dfdf
 
 ---
 foo bar
