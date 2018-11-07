@@ -1,6 +1,6 @@
 {% include head.html %}
-
+Tagged with {{ post.categories | join: ', ' }}
 <!-- Add your site or application content here -->
 <p>{{ content }}</p>
-Tagged with {{ site.categories | join: ', ' }}
+
 {% include footer.html %}
