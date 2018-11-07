@@ -1,6 +1,6 @@
 {% include head.html %}
 {% for section in page.page_sections %}
-Tagged with {{ post.categories | join: ', ' }}
+Tagged with {{ site.categories | join: ', ' }}
 {% include block-{{ section.block }}.html %}
 {% endfor %}
 {% include footer.html %}
