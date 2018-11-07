@@ -9,6 +9,7 @@ fields:
   hidden: false
   default: default
 pages:
+- _posts/test-1.md
 - _posts/Lance New Category/2018-11-07-test.md
 - _posts/2018-11-07-test-1.md
 - _posts/test.md
