@@ -39,8 +39,7 @@ page_sections:
   media_alignment: Right
   headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
     edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  content: sdfdfdf
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
