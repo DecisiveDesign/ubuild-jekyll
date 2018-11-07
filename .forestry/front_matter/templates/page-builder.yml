@@ -33,6 +33,7 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- _posts/Lance New Category/test.md
 - _posts/sdfdsfsdf.md
 - _posts/2018-11-07-this-is-lance-s-post.md
 - index.md
