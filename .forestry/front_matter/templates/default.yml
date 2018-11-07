@@ -9,6 +9,7 @@ fields:
   hidden: false
   default: default
 pages:
+- _posts/test.md
 - _posts/2018-11-07-where-are-you-posts.md
 - _posts/2018-11-07-making-posts.md
 - new-page.md
