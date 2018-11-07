@@ -33,5 +33,6 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- _posts/this-is-lance-s-post.md
 - index.md
 - page-builder-test.md
